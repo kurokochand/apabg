@@ -44,3 +44,10 @@ Of course there will be restrictions on use. We mentioned this shortage of upcom
 
 Whereas premium will get all the features.
 Can be abbreviated as Free Users can only be a few features of APaBG, but still can Auto Put And Break.
+=====================================================================
+APaBG Version 1.4
+= Adding new "FAST-WAY" to enter world at AFK Bot (Check example at Acc.txt)
+= Adding Setting Performance (Check at "Setting" section)
+= Fixing some AFK Bot while connecting
+= Fixing some "HARD-SCRIPT" in Make Script
+= Fixing Multiple Fishing Idle
