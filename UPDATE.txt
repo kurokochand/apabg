@@ -51,3 +51,24 @@ APaBG Version 1.4
 = Fixing some AFK Bot while connecting
 = Fixing some "HARD-SCRIPT" in Make Script
 = Fixing Multiple Fishing Idle
+=====================================================================
+APaBG Version 2.0
+= Fixing Bug while Retrieve Account (AFK Bot)
+= Adding Number Account in AFK Bot
+= Support AFK Bot to Walk and Spamming
+= Adding GetAsyncKeyState (W,A,S,D) for Moving in AFK Bot
+
+So yeah the tutorial, its very easy. This tutorial for moving Bot
+1. Connect your Bot
+2. Then pick 1 account in List
+3. You can Press (W,A,S,D) or Click Button in Move & Spam, Res : Respawn / Reset possition
+4. Enjoy
+
+Tutorial for Spam, (I recommended using this if you won't waste your CPU core)
+1. Connect your Bot
+2. Set Text to Spam
+3. Set Interval (Recommended > 3000)
+4. Start
+
+Attention : If you having issue can't login inside AFK Bot, try to slow your account. What i mean dont login it too much
+for example you login 100 Account in one time.
