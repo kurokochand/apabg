@@ -72,3 +72,7 @@ Tutorial for Spam, (I recommended using this if you won't waste your CPU core)
 
 Attention : If you having issue can't login inside AFK Bot, try to slow your account. What i mean dont login it too much
 for example you login 100 Account in one time.
+=====================================================================
+APaBG Version 2.0.1
+= Fixing Bug at Auto Fishing
+= Enable Unlimited DoExec (Fill with 0) (Default : 5000)
