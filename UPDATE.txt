@@ -76,3 +76,16 @@ for example you login 100 Account in one time.
 APaBG Version 2.0.1
 = Fixing Bug at Auto Fishing
 = Enable Unlimited DoExec (Fill with 0) (Default : 5000)
+=====================================================================
+APaBG Version 2.1
+= Adding Secure Bot in menu "Bot" (Premium Only)
+= Adding Multibox (Check at menu Growtopia)
+
+How to use Secure Bot :
+Must read if you really interesting to try this feature! do at your risk
+1. Go to Menu "Bot" and then go to "Auto Message"
+2. Set Text message to {EMPTY}
+3. And then checklist at Secure bot which one you want to use
+4. Make sure you are not in Public World, Recommended at your own world and do testing at there.
+5. Remember, Script will be not executed if in your world even 1 disconnected / 1 new player entering, and make sure count at your world is same (Ex : in world APABG have 3 guys, if it change into 2 or 4, script will not be executed)
+6. Make sure checklist "Active"
