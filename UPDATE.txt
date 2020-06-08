@@ -89,3 +89,18 @@ Must read if you really interesting to try this feature! do at your risk
 4. Make sure you are not in Public World, Recommended at your own world and do testing at there.
 5. Remember, Script will be not executed if in your world even 1 disconnected / 1 new player entering, and make sure count at your world is same (Ex : in world APABG have 3 guys, if it change into 2 or 4, script will not be executed)
 6. Make sure checklist "Active"
+=====================================================================
+APaBG Version 2.2
+= Added CPU Temperature (Orange 65 °C >=) (Red 80 °C >=) (Blue 64 °C <=)
+= Added 1 File called "OpenHardwareMonitor"
+= Added CheckBox "Reset Device", how its work ? Every you click "Start" Button it will remove current device also you can see the log in page "Unbanner"
+= Fixing some bug in Auto Message
+= Adding Stop Script untill new player out from your world 
+= Adding Spam with List (Also with target Number Account) in AFK BOT
+==> Info : If you want do Single spam list, Set Target No like this (1,) also dont forgot about comma!
+= Every AFK Bot only can hold 10K Bytes log
+= To do /rate 5.99 just type it in "Text / Chat / Command" and type it /rate 5.99
+= Adding Report World in AFK BOT
+
+Note : Some user having trouble while opening app so i decided to Upload some feature too, so i can say v2.2 (BETA)
+=> If you find any bug again, just report in section #bug-report in discord!
