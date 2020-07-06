@@ -104,3 +104,12 @@ APaBG Version 2.2
 
 Note : Some user having trouble while opening app so i decided to Upload some feature too, so i can say v2.2 (BETA)
 => If you find any bug again, just report in section #bug-report in discord!
+=====================================================================
+APaBG Version 2.3 -> 2.4
+= Added Fast to Login Section (in Growtopia menu)
+= Fixing Multiple Fishing
+= Fix alot bug in AFK Bot (take for 2-4 days)
+= Change to new server called apabg.rasyidmf.com
+= Fix some bug / glitch while botting
+
+Note : this is temporary update, i will update again soon.
