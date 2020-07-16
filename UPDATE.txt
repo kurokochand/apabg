@@ -113,3 +113,7 @@ APaBG Version 2.3 -> 2.4
 = Fix some bug / glitch while botting
 
 Note : this is temporary update, i will update again soon.
+=====================================================================
+APaBG Version 2.4.1
+= Fix disconnect AFK Bot every 6 minutes and do some message
+= Added some 100ms for sleep while AFK Bot need response (When i try 0ms, my IP Address got blocked by server)
