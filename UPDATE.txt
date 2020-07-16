@@ -117,3 +117,7 @@ Note : this is temporary update, i will update again soon.
 APaBG Version 2.4.1
 = Fix disconnect AFK Bot every 6 minutes and do some message
 = Added some 100ms for sleep while AFK Bot need response (When i try 0ms, my IP Address got blocked by server)
+=====================================================================
+APaBG Version 2.4.2
+= Fix Disconnect AFK Bot every 6-10 minutes (i made some mistake with corrupted memory location)
+= Temporary automatic clean log every length 50kb (50,000 byte) (Maybe can solve Not responding)
