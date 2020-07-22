@@ -1,6 +1,6 @@
 <h1>Auto Put And Break Growtopia 2020 Re-make</h1>
 Created By : <a href="https://www.facebook.com/RasyidMFS"><b>RasyidMF</b></a><br>
-Youtube Channel : <b><a href="https://www.youtube.com/channel/UC4pMFaK2xg1NVlmo3I6Kvkw?view_as=subscriber">Click Here</a></b><br>
+Youtube Channel : <b><a href="https://www.youtube.com/channel/UCfCZ5cZsv33PUCo09Q5KXCA">Click Here</a></b><br>
 Version : <b>2.4.2 <code>(RELEASE)</code></b><br>
 Country : <b>Indonesia</b> (+62) <br>
 Server : <b>3</b> (Close for 6 Weeks 3 Days) <br>
