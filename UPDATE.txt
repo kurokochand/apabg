@@ -121,3 +121,8 @@ APaBG Version 2.4.1
 APaBG Version 2.4.2
 = Fix Disconnect AFK Bot every 6-10 minutes (i made some mistake with corrupted memory location)
 = Temporary automatic clean log every length 50kb (50,000 byte) (Maybe can solve Not responding)
+=====================================================================
+APaBG Version 2.5
+= Fix not responding AFK Bot (Probably will be showing up but i will analysis more)
+= Added Hook Make Script (Mouse and Keyboard)
+= Added Menu Website (Not finish yet)
