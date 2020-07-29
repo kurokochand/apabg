@@ -126,3 +126,7 @@ APaBG Version 2.5
 = Fix not responding AFK Bot (Probably will be showing up but i will analysis more)
 = Added Hook Make Script (Mouse and Keyboard)
 = Added Menu Website (Not finish yet)
+=====================================================================
+APaBG Version 2.5.0.1 (BETA)
+= Fix not responding AFK Bot
+= Remove Server Response spam
