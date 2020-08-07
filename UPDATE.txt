@@ -130,3 +130,9 @@ APaBG Version 2.5
 APaBG Version 2.5.0.1 (BETA)
 = Fix not responding AFK Bot
 = Remove Server Response spam
+=====================================================================
+APaBG Version 2.5.1
+= Fix not responding AFK Bot (With clearing memory, some cases like corrupted memory still not fixed. If i fix this, really need more time to do this re-write the code)
+= API Integration with my website (You can do login and claiming daily free now)
+
+Note : i need more suggestion for more update, if there is no
